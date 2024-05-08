@@ -5,3 +5,7 @@ data/Binary/*
 data/Delaunay/*
 data/MST/*
 data/output
+
+!data/Binary
+!data/Delaunay
+!data/MST
