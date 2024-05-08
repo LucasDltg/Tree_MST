@@ -1,4 +1,6 @@
 trees
 build
-data/*
-!data/CSV
+data/*/*
+
+!data/
+!data/*/
