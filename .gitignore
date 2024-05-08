@@ -1,6 +1,7 @@
 trees
 build
-data/*/*
 
-!data/
-!data/*/
+data/Binary/*
+data/Delaunay/*
+data/MST/*
+data/output
