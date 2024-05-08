@@ -6,6 +6,6 @@ data/Delaunay/*
 data/MST/*
 data/output
 
-!data/Binary
-!data/Delaunay
-!data/MST
+!data/Binary/info
+!data/Delaunay/info
+!data/MST/info
